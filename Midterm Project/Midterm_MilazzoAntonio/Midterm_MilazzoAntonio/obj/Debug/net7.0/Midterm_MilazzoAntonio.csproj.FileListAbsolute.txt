@@ -1,0 +1,14 @@
+C:\Users\amila\OneDrive\Desktop\Programming1\Midterm Project\Midterm_MilazzoAntonio\Midterm_MilazzoAntonio\bin\Debug\net7.0\Midterm_MilazzoAntonio.exe
+C:\Users\amila\OneDrive\Desktop\Programming1\Midterm Project\Midterm_MilazzoAntonio\Midterm_MilazzoAntonio\bin\Debug\net7.0\Midterm_MilazzoAntonio.deps.json
+C:\Users\amila\OneDrive\Desktop\Programming1\Midterm Project\Midterm_MilazzoAntonio\Midterm_MilazzoAntonio\bin\Debug\net7.0\Midterm_MilazzoAntonio.runtimeconfig.json
+C:\Users\amila\OneDrive\Desktop\Programming1\Midterm Project\Midterm_MilazzoAntonio\Midterm_MilazzoAntonio\bin\Debug\net7.0\Midterm_MilazzoAntonio.dll
+C:\Users\amila\OneDrive\Desktop\Programming1\Midterm Project\Midterm_MilazzoAntonio\Midterm_MilazzoAntonio\bin\Debug\net7.0\Midterm_MilazzoAntonio.pdb
+C:\Users\amila\OneDrive\Desktop\Programming1\Midterm Project\Midterm_MilazzoAntonio\Midterm_MilazzoAntonio\obj\Debug\net7.0\Midterm_MilazzoAntonio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amila\OneDrive\Desktop\Programming1\Midterm Project\Midterm_MilazzoAntonio\Midterm_MilazzoAntonio\obj\Debug\net7.0\Midterm_MilazzoAntonio.AssemblyInfoInputs.cache
+C:\Users\amila\OneDrive\Desktop\Programming1\Midterm Project\Midterm_MilazzoAntonio\Midterm_MilazzoAntonio\obj\Debug\net7.0\Midterm_MilazzoAntonio.AssemblyInfo.cs
+C:\Users\amila\OneDrive\Desktop\Programming1\Midterm Project\Midterm_MilazzoAntonio\Midterm_MilazzoAntonio\obj\Debug\net7.0\Midterm_MilazzoAntonio.csproj.CoreCompileInputs.cache
+C:\Users\amila\OneDrive\Desktop\Programming1\Midterm Project\Midterm_MilazzoAntonio\Midterm_MilazzoAntonio\obj\Debug\net7.0\Midterm_MilazzoAntonio.dll
+C:\Users\amila\OneDrive\Desktop\Programming1\Midterm Project\Midterm_MilazzoAntonio\Midterm_MilazzoAntonio\obj\Debug\net7.0\refint\Midterm_MilazzoAntonio.dll
+C:\Users\amila\OneDrive\Desktop\Programming1\Midterm Project\Midterm_MilazzoAntonio\Midterm_MilazzoAntonio\obj\Debug\net7.0\Midterm_MilazzoAntonio.pdb
+C:\Users\amila\OneDrive\Desktop\Programming1\Midterm Project\Midterm_MilazzoAntonio\Midterm_MilazzoAntonio\obj\Debug\net7.0\Midterm_MilazzoAntonio.genruntimeconfig.cache
+C:\Users\amila\OneDrive\Desktop\Programming1\Midterm Project\Midterm_MilazzoAntonio\Midterm_MilazzoAntonio\obj\Debug\net7.0\ref\Midterm_MilazzoAntonio.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Midterm_MilazzoAntonio/1.0.0": {
+        "runtime": {
+          "Midterm_MilazzoAntonio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Midterm_MilazzoAntonio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
