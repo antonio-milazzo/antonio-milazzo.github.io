@@ -1,0 +1,2 @@
+C:\Users\amila\OneDrive\Desktop\Programming1\AdoptARobot\Adopt-a-Robot\obj\Debug\Adopt-a-Robot.csproj.AssemblyReference.cache
+C:\Users\amila\OneDrive\Desktop\Programming1\AdoptARobot\Adopt-a-Robot\obj\Debug\Adopt-a-Robot.csproj.CoreCompileInputs.cache
