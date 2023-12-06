@@ -1,0 +1,14 @@
+C:\Users\amila\OneDrive\Desktop\Programming1\RecursionPot_MilazzoAntonio\RecursionPot_MilazzoAntonio\obj\Debug\net7.0\RecursionPot_MilazzoAntonio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amila\OneDrive\Desktop\Programming1\RecursionPot_MilazzoAntonio\RecursionPot_MilazzoAntonio\obj\Debug\net7.0\RecursionPot_MilazzoAntonio.AssemblyInfoInputs.cache
+C:\Users\amila\OneDrive\Desktop\Programming1\RecursionPot_MilazzoAntonio\RecursionPot_MilazzoAntonio\obj\Debug\net7.0\RecursionPot_MilazzoAntonio.AssemblyInfo.cs
+C:\Users\amila\OneDrive\Desktop\Programming1\RecursionPot_MilazzoAntonio\RecursionPot_MilazzoAntonio\obj\Debug\net7.0\RecursionPot_MilazzoAntonio.csproj.CoreCompileInputs.cache
+C:\Users\amila\OneDrive\Desktop\Programming1\RecursionPot_MilazzoAntonio\RecursionPot_MilazzoAntonio\bin\Debug\net7.0\RecursionPot_MilazzoAntonio.exe
+C:\Users\amila\OneDrive\Desktop\Programming1\RecursionPot_MilazzoAntonio\RecursionPot_MilazzoAntonio\bin\Debug\net7.0\RecursionPot_MilazzoAntonio.deps.json
+C:\Users\amila\OneDrive\Desktop\Programming1\RecursionPot_MilazzoAntonio\RecursionPot_MilazzoAntonio\bin\Debug\net7.0\RecursionPot_MilazzoAntonio.runtimeconfig.json
+C:\Users\amila\OneDrive\Desktop\Programming1\RecursionPot_MilazzoAntonio\RecursionPot_MilazzoAntonio\bin\Debug\net7.0\RecursionPot_MilazzoAntonio.dll
+C:\Users\amila\OneDrive\Desktop\Programming1\RecursionPot_MilazzoAntonio\RecursionPot_MilazzoAntonio\bin\Debug\net7.0\RecursionPot_MilazzoAntonio.pdb
+C:\Users\amila\OneDrive\Desktop\Programming1\RecursionPot_MilazzoAntonio\RecursionPot_MilazzoAntonio\obj\Debug\net7.0\RecursionPot_MilazzoAntonio.dll
+C:\Users\amila\OneDrive\Desktop\Programming1\RecursionPot_MilazzoAntonio\RecursionPot_MilazzoAntonio\obj\Debug\net7.0\refint\RecursionPot_MilazzoAntonio.dll
+C:\Users\amila\OneDrive\Desktop\Programming1\RecursionPot_MilazzoAntonio\RecursionPot_MilazzoAntonio\obj\Debug\net7.0\RecursionPot_MilazzoAntonio.pdb
+C:\Users\amila\OneDrive\Desktop\Programming1\RecursionPot_MilazzoAntonio\RecursionPot_MilazzoAntonio\obj\Debug\net7.0\RecursionPot_MilazzoAntonio.genruntimeconfig.cache
+C:\Users\amila\OneDrive\Desktop\Programming1\RecursionPot_MilazzoAntonio\RecursionPot_MilazzoAntonio\obj\Debug\net7.0\ref\RecursionPot_MilazzoAntonio.dll
