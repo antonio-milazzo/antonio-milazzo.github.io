@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberQuest_MilazzoAntonio", "CyberQuest_MilazzoAntonio\CyberQuest_MilazzoAntonio.csproj", "{F7F59D44-1EB4-476B-9861-167964CB0301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7F59D44-1EB4-476B-9861-167964CB0301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F59D44-1EB4-476B-9861-167964CB0301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F59D44-1EB4-476B-9861-167964CB0301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F59D44-1EB4-476B-9861-167964CB0301}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2949DF2E-DEF9-460D-BA73-7D8FF735AD8B}
+	EndGlobalSection
+EndGlobal
